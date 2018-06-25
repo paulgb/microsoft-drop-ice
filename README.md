@@ -200,6 +200,7 @@ Signed,
 1.  Pascal Jufer [@paescuj](https://github.com/paescuj)
 1.  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 1.  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
+1.  Paul Butler [@paulgb](https://github.com/paulgb)
 1.  Paul Nolan [@close-paren](https://github.com/close-paren)
 1.  Pedro Rodrigues [@pedro2555](https://github.com/pedro2555)
 1.  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
